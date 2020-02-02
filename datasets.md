@@ -1,4 +1,4 @@
-|제공서비스|구분|내용|링크|
+|서비스|구분|내용|링크|
 |:--:|:--:|:--:|:--:|
 |[aihub](http://www.aihub.or.kr)|text|법률|http://www.aihub.or.kr/aidata/29|
 ||text|특허|http://www.aihub.or.kr/aidata/30|
